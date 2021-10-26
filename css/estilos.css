@@ -1,5 +1,10 @@
 body{
-    color: deeppink;
+    color: black;
     text-align: center;
     font-family: Arial;
+}
+
+#cabecera
+{
+    background: #33a;
 }
