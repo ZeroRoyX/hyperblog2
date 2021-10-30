@@ -18,7 +18,7 @@
 %autosave 0
 
 # %%
-print("utupusu, un cambio aquí, el cual es importate denotar al intante.")
+print("utupusu, un cambio aquí desde Github.")
 
 # %%
 print("Hello World!")
@@ -28,3 +28,5 @@ print("Hello World!")
 
 # %%
 print("doing more tests")
+
+Haciendo más ensallos
