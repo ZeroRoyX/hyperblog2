@@ -26,7 +26,7 @@ print("Hello World!!")
 # %%
 print("doing more tests")
 
-# Haciendo más ensayos
+Haciendo más ensayos
 
 # %% [markdown]
 # ## Orale, un título

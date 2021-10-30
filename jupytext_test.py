@@ -1,4 +1,3 @@
-# -*- coding: utf-8 -*-
 # ---
 # jupyter:
 #   jupytext:
@@ -15,20 +14,10 @@
 # ---
 
 # %%
-print("Cambio desde VSCode, ahora desde el browser, ahora desde el nb")
+6+6
 
 # %%
-print("Hello World!!")
+5**3
 
 # %%
-5+5 # Es importante ver el resultado de aquí
-
-# %%
-print("doing more tests")
-
-# Haciendo más ensayos
-
-# %% [markdown]
-# ## Orale, un título
-#
-# Chidos cambioss
+print("Hola!")
