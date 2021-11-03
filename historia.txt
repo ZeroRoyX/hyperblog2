@@ -11,3 +11,7 @@ Exp 1
 Exp 2
 
 mouse
+
+teclado
+
+headphones
